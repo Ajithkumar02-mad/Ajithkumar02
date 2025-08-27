@@ -29,16 +29,8 @@ Currently diving into **[your tech focus, e.g., C Programming | Full Stack Devel
 ## 🧠 Currently Learning
 
 - 🔍 C, Python & Full Stack Development  
-- 🧠 Exploring AI/ML Concepts  
-- 📊 Mastercam & CAD-CAM Software  
+- 🧠 Exploring AI/ML Concepts    
 - 🌐 Git & Open Source Collaboration
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
